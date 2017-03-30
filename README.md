@@ -1,2 +1,2 @@
 # AidlService
-AIDL 服务
+AIDL 服务端
